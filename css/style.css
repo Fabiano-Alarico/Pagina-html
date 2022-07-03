@@ -6,9 +6,33 @@ h1{
     background-color: cornflowerblue;
     text-align: center;
     margin: auto;
-    width: 40%;
+}
+
+#banner{
+    width: 100%;
 }
 
 main{
     display: flex;
 } 
+
+section{
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    background-color: cadetblue;
+}
+
+#sec1{
+    height: 912px;
+}
+
+aside{
+    text-align: center;
+    width: 28%;
+    background-color: burlywood;
+}
+
+#img{
+    width: 15%;
+}
