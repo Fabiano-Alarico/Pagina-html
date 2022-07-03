@@ -19,20 +19,66 @@ main{
 section{
     margin: auto;
     text-align: center;
-    width: 30%;
+    width: 32%;
+    border: 5px solid white;
     background-color: cadetblue;
 }
 
 #sec1{
-    height: 912px;
+    height: 980px;
+}
+
+#sec1 h2{
+    font-size: 28pt;
+}
+
+#sec1 p{
+    font-size: 20pt;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#meme{
+    width: 50%;
+    border: 2px solid white;
+}
+
+figcaption{
+    margin: auto;
+    width: 50%;
+    border: 2px solid white;
 }
 
 aside{
     text-align: center;
-    width: 28%;
+    width: 30%;
+    border: 5px solid white;
     background-color: burlywood;
 }
 
 #img{
+    width: 50%;
+    padding: 3%;
+}
+
+footer{
+    display: flex;
+    height: 170px;
+    background-color: black;
+}
+
+#IMGCAP{  
+    text-align: center;  
     width: 15%;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    background-color: black;
+}
+
+.IMGG{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    width: 23%;
 }
