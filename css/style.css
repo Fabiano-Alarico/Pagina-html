@@ -1,0 +1,14 @@
+body{
+    background-color:greenyellow;
+}
+
+h1{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: auto;
+    width: 40%;
+}
+
+main{
+    display: flex;
+} 
